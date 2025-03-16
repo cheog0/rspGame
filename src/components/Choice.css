@@ -1,0 +1,9 @@
+.choice-btn {
+  width: 70px; /* 원하는 이미지 크기 */
+  cursor: pointer; /* 마우스 커서를 손가락 모양으로 변경 */
+  margin: 10px; /* 버튼 간 간격 */
+}
+
+.choice-btn:hover {
+  opacity: 0.8; /* 마우스를 올렸을 때 투명도 살짝 낮추기 */
+}
